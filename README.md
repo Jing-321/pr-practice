@@ -18,7 +18,7 @@ Person B should modify content here.
 
 ## Person C:
 
-Hello - This is Ayesha!! I totally forgot about CS Fun homework!
+Person C should modify content here.
 
 ## Person D:
 
